@@ -1,2 +1,2 @@
 # about_me
-My resume, degrees and other certifications!
+My degrees, transcripts and other certifications!
